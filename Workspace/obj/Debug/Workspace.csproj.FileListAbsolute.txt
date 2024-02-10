@@ -1,0 +1,8 @@
+C:\Users\musta\source\repos\MaskTracking\Workspace\bin\Debug\Workspace.exe.config
+C:\Users\musta\source\repos\MaskTracking\Workspace\bin\Debug\Workspace.exe
+C:\Users\musta\source\repos\MaskTracking\Workspace\bin\Debug\Workspace.pdb
+C:\Users\musta\source\repos\MaskTracking\Workspace\obj\Debug\Workspace.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MaskTracking\Workspace\obj\Debug\Workspace.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\source\repos\MaskTracking\Workspace\obj\Debug\Workspace.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MaskTracking\Workspace\obj\Debug\Workspace.exe
+C:\Users\musta\source\repos\MaskTracking\Workspace\obj\Debug\Workspace.pdb
